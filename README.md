@@ -7,9 +7,8 @@
   
 3. indice de los archivos y carpetas
 
--dia 1 
+dia 1 
   -m6 01 cuaderno sobre las variables
   -m6 02 cuaderno sobre los condicionales y un pequeño reto
 
 
-as
