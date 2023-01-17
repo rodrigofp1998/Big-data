@@ -10,3 +10,6 @@
 -dia 1 
   -m6 01 cuaderno sobre las variables
   -m6 02 cuaderno sobre los condicionales y un pequeño reto
+
+
+as
